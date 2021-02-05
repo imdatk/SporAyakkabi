@@ -2,7 +2,7 @@ package A;
 
 public class AyakkabiYerli {
     public static void main(String[] args) {
-        System.out.println("HelloWord from GitHub");
+        System.out.println("HelloWord");
     }
 
 }
